@@ -3,7 +3,11 @@
   "version": "7.1.0",
   "description": "An ESLint plugin to enforce the use of TypeScript total functions.",
   "main": "dist",
+  "homepage": "https://github.com/danielnixon/eslint-plugin-total-functions#readme",
   "repository": "https://github.com/danielnixon/eslint-plugin-total-functions.git",
+  "bugs": {
+    "url": "https://github.com/danielnixon/eslint-plugin-total-functions/issues"
+  },
   "author": "Daniel Nixon <dan.nixon@gmail.com>",
   "license": "MIT",
   "devDependencies": {
